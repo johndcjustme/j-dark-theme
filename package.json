@@ -1,0 +1,21 @@
+{
+  "name": "j-dark-theme",
+  "displayName": "JDarkTheme",
+  "description": "A personal dark theme made by John",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "J Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/J Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
