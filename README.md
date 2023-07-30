@@ -1,5 +1,8 @@
 # j-dark-theme
 Minimalist dark theme for vscode
+https://themes.vscode.one
+
+<br>
 
 ### 1. Clone the repo ####
 ```
