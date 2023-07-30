@@ -2,7 +2,9 @@
 Minimalist dark theme for vscode
 
 ### 1. Clone the repo ####
-
+```
+git clone -b master https://github.com/johndcjustme/j-dark-theme.git
+```
 ### 2. Go to root directory and install ###
 ```
 // if using vscode
